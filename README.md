@@ -9,6 +9,9 @@
   <strong>Autor:</strong><br/>Edwin Rafael Larrea Buste<br/> 
   <strong>Director:</strong><br/>Hugo Alberto Xochicale Rojas
 </p>
+ 
+- **LinkedIn:** [linkedin.com/in/edwinlarrea](https://www.linkedin.com/in/rafael-larrea-software-engineer/)  
+- **GitHub:** [github.com/edwinlarrea](https://github.com/Rafael1108)
 
 
 ## Data Understanding - (Pipeline ETL en Python para procesar los archivos XML)
@@ -27,3 +30,10 @@ El pipeline está diseñado para aplicar técnicas de limpieza y refinado de los
 
 Este pipeline se caracteriza por una arquitectura modular y extensible que incorpora patrones de diseño avanzados como Strategy, Factory, Template Method y Observer, implementa el entrenamiento y evaluación de múltiples algoritmos (ARIMA, SARIMA, Regresión Lineal, LightGBM, XGBoost, LSTM), su diseño se centra en responder preguntas específicas sobre patrones de ventas y comportamiento estacional. El detalle técnico como arquitectónico se encuentra en el archivo README.md en el repositorio:  
 [https://github.com/TFM-Visual-Analytics-and-Big-Data/3-Modeling_and_Evaluation](https://github.com/TFM-Visual-Analytics-and-Big-Data/3-Modeling_and_Evaluation)
+
+## Dataset 
+
+La carpeta `src/dataset` contiene los conjuntos de datos utilizados en las distintas fases del proyecto. Aquí se almacenan tanto los datos originales extraídos de los archivos XML como los datos transformados y listos para el modelado. Puedes acceder a esta carpeta para consultar, analizar o reutilizar los datos en nuevos experimentos o análisis adicionales.
+
+> **Nota:** Por motivos de privacidad y tamaño, algunos archivos pueden no estar disponibles en el repositorio público. Si necesitas acceso completo a los datos, contacta con el autor del proyecto.
+ 
